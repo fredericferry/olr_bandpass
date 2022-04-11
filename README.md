@@ -11,5 +11,5 @@ If you can't find the data ask me and I'll make it available for you.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-![OLR_waves_variance_NDJFM](https://user-images.githubusercontent.com/76565450/162810892-6838c55c-e82e-4f8b-b57d-222b8a87ff8e.png)
-![OLR_waves_variance_MJJAS](https://user-images.githubusercontent.com/76565450/162810902-8c42f12a-2b65-4690-b5ee-28977ecec1c6.png)
+![OLR_bandpass_variance_MJJAS](https://user-images.githubusercontent.com/76565450/162812107-83b10e3a-ee20-4ffc-8873-70139a3664cd.png)
+![OLR_bandpass_variance_NDJFM](https://user-images.githubusercontent.com/76565450/162812115-b36cc8b4-4e7b-4c8e-8ca8-69209b4a795e.png)
